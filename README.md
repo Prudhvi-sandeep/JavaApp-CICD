@@ -298,7 +298,5 @@ ii. Through the container deployed on the same instance.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*ftzbIzjJIC_nSsDjmzMf6A.png)
 
-## **Author:**
 
-<h2>PRUDHVI SANDEEP MUDIDANA</h2>
 
