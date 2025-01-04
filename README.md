@@ -298,9 +298,7 @@ ii. Through the container deployed on the same instance.
 
 ![](https://miro.medium.com/v2/resize:fit:700/1*ftzbIzjJIC_nSsDjmzMf6A.png)
 
-## **Author by:**
+## **Author:**
 
-![s](https://imgur.com/2j6Aoyl.png)
+<h2>PRUDHVI SANDEEP MUDIDANA</h2>
 
-> [!NOTE]
-> **Join Our** [Telegram Community](https://t.me/prodevopsguy) // [Follow me](https://github.com/NotHarshhaa) **for more DevOps & Cloud content.**
